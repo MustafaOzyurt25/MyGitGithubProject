@@ -15,6 +15,10 @@ public class AtmApp {
         System.out.println(" java yi ogrenmek cok kolay !");
         // version4
 
+        System.out.println(" mustafa branch'i kodlarini yazdi.");
+        // mst1
+
+
 
 
     }
