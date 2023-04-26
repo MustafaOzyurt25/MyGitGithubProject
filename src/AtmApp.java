@@ -22,6 +22,9 @@ public class AtmApp {
         System.out.println(" mustafa branch'i kodlarini yazdi.");
         // mst3
 
+        System.out.println(" mustafa branch'i kodlarini yazdi.");
+        if(true){
+        }
 
 
     }
