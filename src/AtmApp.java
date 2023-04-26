@@ -9,6 +9,9 @@ public class AtmApp {
         System.out.println("Java is esay!");
         // version2
 
+        System.out.println("Learn java earn money");
+        // version3
+
 
 
     }
