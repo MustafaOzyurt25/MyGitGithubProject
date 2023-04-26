@@ -16,8 +16,11 @@ public class AtmApp {
         // version4
 
         System.out.println(" mustafa branch'i kodlarini yazdi.");
+
         // mst1
 
+        System.out.println(" mustafa branch'i kodlarini yazdi.");
+        // mst3
 
 
 
