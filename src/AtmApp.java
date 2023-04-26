@@ -6,6 +6,10 @@ public class AtmApp {
 
         // version1
 
+        System.out.println("Java is esay!");
+        // version2
+
+
 
     }
 }
