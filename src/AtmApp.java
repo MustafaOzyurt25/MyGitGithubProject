@@ -25,6 +25,8 @@ public class AtmApp {
         System.out.println(" mustafa branch'i kodlarini yazdi.");
         if(true){
         }
+        
+        // remote repoda degisiklik yaptim.
 
 
     }
